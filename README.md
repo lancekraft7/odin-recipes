@@ -1,3 +1,3 @@
 # odin-recipes
 
-Simple recipe website to work twoards mastering HTML and CSS
+Simple recipe website to work towards mastering HTML and CSS
