@@ -1,4 +1,18 @@
-.pic.header {
-    height: 200px;
-    width: 600px;
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: black;
+    font-size: medium;
 }
+
+
+
+
+
+
+
+
+.pic.header {
+    height: auto;
+    width: 600px;
+    }
+
