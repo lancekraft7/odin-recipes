@@ -2,15 +2,24 @@
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: black;
     font-size: medium;
+    
+}
+.container1 {
+    background-color: burlywood;
+    padding: 10px;
+    border: 2px solid red;
+    gap: 8px;
+    display: flex;
+    
 }
 
-
-
-
-
-
-
-
+li {
+    background-color: aquamarine;
+    margin: 4px;
+    border: 2px solid black;
+    flex: 1;
+    padding: 8px;
+}
 .pic.header {
     height: auto;
     width: 600px;
